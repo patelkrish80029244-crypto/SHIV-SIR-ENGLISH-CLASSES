@@ -1,0 +1,7 @@
+{
+  "name": "SHIV SIR ENGLISH CLASSES",
+  "description": "A comprehensive online coaching management platform for student registration, batch management, homework, and real-time announcements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
